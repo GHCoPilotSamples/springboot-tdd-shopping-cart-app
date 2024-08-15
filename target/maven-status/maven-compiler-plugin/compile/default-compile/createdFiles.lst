@@ -1,0 +1,3 @@
+com\example\shoppingcart\service\ShoppingCartService.class
+com\example\shoppingcart\model\Item.class
+com\example\shoppingcart\repository\ShoppingCartRepository.class
